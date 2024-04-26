@@ -47,8 +47,8 @@ plugin:
 
 ```shell
 mvn archetype:generate \
-  -DarchetypeGroupId=org.wep 
-  -DarchetypeVersion=1.0 
+  -DarchetypeGroupId=org.wep \
+  -DarchetypeVersion=1.0 \
   -DarchetypeArtifactId=plugin-archetype
 ```
 
